@@ -1,0 +1,7 @@
+{
+    "tabWidth": 4,
+    "parser": "html",
+    "printWidth": 100000,
+    "semi": false,
+    "singleQuote": true
+}
